@@ -1,2 +1,2 @@
-# books-online_zkousky
+# book-online_zkousky
 Online kurz - Přijímací zkoušky
